@@ -1,0 +1,6 @@
+{
+  "name": "TStore - Loja Virtual de Eletrônicos",
+  "description": "Loja virtual de eletrônicos e tecnologia premium no Brasil. Smartphones, notebooks, fones, smartwatches e acessórios com entrega garantida e Pix com desconto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
